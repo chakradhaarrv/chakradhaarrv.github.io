@@ -21,7 +21,7 @@
 ### Java Backend Projects
 
 [QMoney](http://example.com/)
-<p style="font-size:14px">QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients. <br/>- Implemented the core logic of the portfolio manager and published it as a library.<br/>- Refactored code to add support for multiple stock quote services. <br/>- Improved application stability and performance.<br/>Skills Learned:<br/>Java, REST API, Jackson, Interfaces, Code Refactoring, Gradle, Exception Handling, Multithreading.</p>
+<p style="font-size:14px">QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients. <br/>- Implemented the core logic of the portfolio manager and published it as a library.<br/>- Refactored code to add support for multiple stock quote services. <br/>- Improved application stability and performance.<br/>Implemented Using:<br/>Java, REST API, Jackson, Interfaces, Code Refactoring, Gradle, Exception Handling, Multithreading.</p>
 
 ---
 [QEats](http://example.com/)
@@ -29,7 +29,7 @@
 <br/>
 To give a sense of real-world problems, production issues are introduced for the developer to investigate using Scientific Debugging methods. Along with this, the developer is expected to improve the app performance under large load scenarios as well as include an advanced search feature in the app.
 <br/>
-Implemented Using: Spring Boot, Spring Data, REST API, Jackson, Mockito, JUnit, MongoDB, Scientific Debugging</p>
+Implemented Using:<br/>Spring Boot, Spring Data, REST API, Jackson, Mockito, JUnit, MongoDB, Scientific Debugging</p>
   
 ---
 [Quiz App](http://example.com/)
@@ -37,6 +37,6 @@ Implemented Using: Spring Boot, Spring Data, REST API, Jackson, Mockito, JUnit, 
 -GET /quiz/{moduleId}: fetches the quiz questions for a given module.
 -POST /quiz/{moduleId}: submits user answers and returns an evaluation.
 <br/>
-Implemented Using: Spring Boot, REST API, MongoDB, JUnit</p>
+Implemented Using:<br/>Spring Boot, REST API, MongoDB, JUnit</p>
 
 ---
