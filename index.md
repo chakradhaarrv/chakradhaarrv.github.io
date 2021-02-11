@@ -20,11 +20,11 @@
 
 ### Java Backend Projects
 
-[QMoney](http://example.com/)
+[QMoney](https://github.com/chakradhaarrv/QMoney)
 <p style="font-size:14px">QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients. <br/>- Implemented the core logic of the portfolio manager and published it as a library.<br/>- Refactored code to add support for multiple stock quote services. <br/>- Improved application stability and performance.<br/><br/>Implemented Using:<br/>Java, REST API, Jackson, Interfaces, Code Refactoring, Gradle, Exception Handling, Multithreading.</p>
 
 ---
-[QEats](http://example.com/)
+[QEats](https://github.com/chakradhaarrv/QEats)
 <p style="font-size:14px">QEats is a food ordering app that allows users to browse and order their favorite dishes from nearby restaurants. During the course of this Micro-Experience at Crio.do, developers build different parts of the QEats backend which is a Spring Boot application. Several REST API endpoints are implemented to query restaurant information and place food orders.
 <br/><br/>
 To give a sense of real-world problems, production issues are introduced for the developer to investigate using Scientific Debugging methods. Along with this, the developer is expected to improve the app performance under large load scenarios as well as include an advanced search feature in the app.
@@ -32,7 +32,7 @@ To give a sense of real-world problems, production issues are introduced for the
 Implemented Using:<br/>Spring Boot, Spring Data, REST API, Jackson, Mockito, JUnit, MongoDB, Scientific Debugging</p>
   
 ---
-[Quiz App](http://example.com/)
+[Quiz App](https://github.com/chakradhaarrv/QuizApp)
 <p style="font-size:14px">A quiz application with an API endpoint that supports the following operations:<br/>
 -GET /quiz/{moduleId}: fetches the quiz questions for a given module.<br/>
 -POST /quiz/{moduleId}: submits user answers and returns an evaluation.
