@@ -9,7 +9,7 @@
 
 
 ---
-[Twitter Sentiment Anaysis](/https://github.com/chakradhaarrv/twitter-sentiment-gcp)
+[Twitter Sentiment Anaysis](https://github.com/chakradhaarrv/twitter-sentiment-gcp)
 <p style="font-size:14px">This app provides tweet sentiments for a user specified tweet topic and number of tweets the user would want to consider.</p>
 
 ---
