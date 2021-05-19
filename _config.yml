@@ -1,5 +1,5 @@
 title: Chakradhaar Viswatmula # your name (or website title) here
-logo: "/images/imgportfolio.jpg?raw=true" # your photo (or logo) here
+logo: "/images/img_pf.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   M.S. Business Analytics at The University of Illinois at Chicago 
   <br><br>
@@ -7,10 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Certifications
   <br>
-  <a href="https://github.com/chakradhaarrv/chakradhaarrv.github.io/blob/master/pdf/tf_dev_certificate%20(1).pdf">
+  <a href="/tf_cert">
   <img src='/images/tf_badge.png?raw=true' style="width:35px;height:35px;">
   </a> 
-  <a href="https://github.com/chakradhaarrv/chakradhaarrv.github.io/blob/master/pdf/Coursera%20WC3ZAP56CZE9.pdf">
+  <a href="google_da">
   <img src='images/google_logo.png?raw=true' style="width:30px;height:30px;">
   </a>
   <br><br>
