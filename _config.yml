@@ -5,7 +5,16 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   B.Tech. Computer Science at PES University, Bangalore, India
   <br><br>
-  <a href="https://www.linkedin.com/in/chakradhaarrv/">My LinkedIn Profile</a> 
+  Certifications
+  <br>
+  <a href="https://github.com/chakradhaarrv/chakradhaarrv.github.io/blob/master/pdf/tf_dev_certificate%20(1).pdf">
+  <img src='/images/tf_badge.png?raw=true' style="width:20px;height:10px;">
+  </a> 
+  <a href="https://github.com/chakradhaarrv/chakradhaarrv.github.io/blob/master/pdf/Coursera%20WC3ZAP56CZE9.pdf">
+  <img src='images/google_logo.png?raw=true' style="width:20px;height:10px;">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/chakradhaarrv/">My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
