@@ -13,6 +13,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   </a> &ensp;   
   <a href="google_da">
   <img src='images/google_logo.png?raw=true' style="width:32px;height:32px;">
+  </a> &ensp;   
+  <a href="tableau_cert">
+  <img src='images/DCA_png.png?raw=true' style="width:32px;height:32px;">
   </a>
   <br>
   Links
