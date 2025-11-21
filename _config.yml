@@ -1,46 +1,48 @@
-title: Chakradhaar Viswatmula # your name (or website title) here
-logo: "/images/pfimg.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-   <br><br>
+title: Chakradhaar Viswatmula
+logo: "/images/pfimg.png?raw=true"
+description: >
+  <br><br>
   Experience
   <br> &ensp;
-  <a href="/tf_cert">
-  <img src='/images/AXP_BlueBoxLogo_Alternate_REGULARscale_RGB_DIGITAL_700x700.png.png?raw=true' style="width:35px;height:35px;">
-  </a> &ensp;   
-  <a href="google_da">
-  <img src='images/Conduent_logo.svg.png?raw=true' style="width:32px;height:32px;">
+  <a href="https://www.americanexpress.com/">
+    <img src="/images/AXP_BlueBoxLogo_Alternate_REGULARscale_RGB_DIGITAL_700x700.png.png?raw=true" style="width:35px;height:35px;">
+  </a> &ensp;
+  <a href="https://www.conduent.com/">
+    <img src="/images/Conduent_logo.svg.png?raw=true" style="width:32px;height:32px;">
   </a> &ensp;
   <br><br>
   Education
   <br>
-  <a href='/diploma'>
-  M.S. Business Analytics <br> University of Illinois Chicago</a> 
+  <a href="/diploma">
+    M.S. Business Analytics <br> University of Illinois Chicago
+  </a>
   <br><br>
   B.Tech. Computer Science <br> PES University, Bangalore, India
   <br><br>
   Certifications
   <br> &ensp;
   <a href="/tf_cert">
-  <img src='/images/tf_badge.png?raw=true' style="width:35px;height:35px;">
-  </a> &ensp;   
-  <a href="google_da">
-  <img src='images/google_logo.png?raw=true' style="width:32px;height:32px;">
-  </a> &ensp;   
-  <a href="tableau_cert">
-  <img src='images/DCA_png.png?raw=true' style="width:32px;height:32px;">
+    <img src="/images/tf_badge.png?raw=true" style="width:35px;height:35px;">
+  </a> &ensp;
+  <a href="/google_da">
+    <img src="/images/google_logo.png?raw=true" style="width:32px;height:32px;">
+  </a> &ensp;
+  <a href="/tableau_cert">
+    <img src="/images/DCA_png.png?raw=true" style="width:32px;height:32px;">
   </a>
   <br>
   Links
   <br> &ensp;
   <a href="https://www.linkedin.com/in/chakradhaarrv/">
-  <img src='images/linkedin-logo.png?raw=true' style="width:25px;height:25px;">
-  </a> &ensp;   
+    <img src="/images/linkedin-logo.png?raw=true" style="width:25px;height:25px;">
+  </a> &ensp;
   <a href="https://github.com/chakradhaarrv">
-  <img src='images/github-logo.png?raw=true' style="width:28px;height:28px;"></a>
+    <img src="/images/github-logo.png?raw=true" style="width:28px;height:28px;">
+  </a>
   <br><br>
-  <a href="/sample_page"> View My Resume </a>
-  
+  <a href="/sample_page">View My Resume</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0
