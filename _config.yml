@@ -2,48 +2,52 @@ title: Chakradhaar Viswatmula
 logo: "/assets/images/headshot.png?raw=true"
 description: >
   <br><br>
-  Experience
-  <br> &ensp;
-  <a href="https://www.americanexpress.com/">
-    <img src="/assets/images/AXP_BlueBoxLogo_Alternate_REGULARscale_RGB_DIGITAL_700x700.png?raw=true" style="width:42px;height:42px;">
-  </a> &ensp;
-  <a href="https://www.conduent.com/">
-    <img src="/assets/images/Conduent_logo.svg.png?raw=true" style="width:123px;height:32px;">
-  </a> &ensp;
+
+  <!-- Experience logos (already centered with flex in CSS) -->
+  <div style="text-align:center; line-height:2.4;">
+    <strong style="font-size:18px; color:#ecf0f1;">Experience</strong>
+    <br>&ensp;
+    <a href="https://www.americanexpress.com/">
+      <img src="/assets/images/AXP_BlueBoxLogo_Alternate_REGULARscale_RGB_DIGITAL_700x700.png?raw=true" style="width:36px;height:36px;">
+    </a>&ensp;
+    <a href="https://www.conduent.com/">
+      <img src="/assets/images/Conduent_logo.svg.png?raw=true" style="width:123px;height:32px;">
+    </a>&ensp;
+  </div>
+  <br><br><br>
+
+
+  <!-- Certifications – centered, bold, extra spacing -->
+  <div style="text-align:center; line-height:2.4;">
+    <strong style="font-size:18px; color:#ecf0f1;">Certifications</strong>
+    <br><br>
+    <a href="/assets/documents/tf_cert">
+      <img src="/assets/images/tf_badge.png?raw=true" style="width:40px;height:40px; margin:0 18px;">
+    </a>
+    <a href="/assets/documents/google_da">
+      <img src="/assets/images/google_logo.png?raw=true" style="width:40px;height:40px; margin:0 18px;">
+    </a>
+    <a href="/assets/documents/tableau_cert">
+      <img src="/assets/images/tableau-logo.png?raw=true" style="width:40px;height:40px; margin:0 18px;">
+    </a>
+  </div>
+  <br><br><br>
+
+  <!-- Links -->
+  <div style="text-align:center;">
+    <strong style="font-size:16px; color:#ecf0f1;">Connect</strong>
+    <br><br>
+    <a href="https://www.linkedin.com/in/chakradhaarrv/">
+      <img src="/assets/images/linkedin-logo.png?raw=true" style="width:33px;height:33px; margin:0 12px;">
+    </a>
+    <a href="https://github.com/chakradhaarrv">
+      <img src="/assets/images/github-logo.png?raw=true" style="width:35px;height:35px; margin:0 12px;">
+    </a>
+    <a href="mailto:crviswatmula@gmail.com">
+      <img src="/assets/images/gmail.png?raw=true" style="width:35px;height:35px; margin:0 12px;">
+    </a>
+  </div>
   <br><br>
-  Education
-  <br>
-  <a href="/assets/documents/diploma">
-    M.S. Business Analytics <br> University of Illinois Chicago
-  </a>
-  <br><br>
-  B.Tech. Computer Science <br> PES University, Bangalore, India
-  <br><br>
-  Certifications
-  <br> &ensp;
-  <a href="/assets/documents/tf_cert">
-    <img src="/assets/images/tf_badge.png?raw=true" style="width:42px;height:42px;">
-  </a> &ensp;
-  <a href="/assets/documents/google_da">
-    <img src="/assets/images/google_logo.png?raw=true" style="width:32px;height:32px;">
-  </a> &ensp;
-  <a href="/assets/documents/tableau_cert">
-    <img src="/assets/images/tableau-logo.png?raw=true" style="width:32px;height:32px;">
-  </a>
-  <br>
-  Links
-  <br> &ensp;
-  <a href="https://www.linkedin.com/in/chakradhaarrv/">
-    <img src="/assets/images/linkedin-logo.png?raw=true" style="width:28px;height:28px;">
-  </a> &ensp;
-  <a href="https://github.com/chakradhaarrv">
-    <img src="/assets/images/github-logo.png?raw=true" style="width:28px;height:28px;">
-  </a> &ensp;
-  <a href="mailto:crviswatmula@gmail.com">
-    <img src="/assets/images/gmail.png?raw=true" style="width:28px;height:28px;">
-  </a>
-  <br><br>
-  
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
