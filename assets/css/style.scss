@@ -1,186 +1,56 @@
 ---
-# This line is required for Jekyll to process the file
 ---
 
 @import "{{ site.theme }}";
 
-/* ====================================
-   Global Reset & Base Styles
-   ==================================== */
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  background: #fdfdfd;
-  color: #333;
+/* Global premium white */
+:root {
+  --preferred-white: #F7F7F5;
+}
+
+/* Background */
+html, body {
+  background-color: var(--preferred-white) !important;
+  color: #1A1A1A !important;
+  height: 100%;
   margin: 0;
-  padding: 0;
-  line-height: 1.6;
 }
 
+/* Content wrapper, sidebar, cards */
+.wrapper,
+section,
+article,
+.main,
+footer,
+header {
+  background-color: var(--preferred-white) !important;
+}
+
+/* Optional: add subtle shadow to content for premium feel */
+.wrapper, section, article {
+  box-shadow: 0px 1px 4px rgba(0,0,0,0.06);
+  border-radius: 8px;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #111 !important;
+}
+
+/* Links */
 a {
-  color: #2c3e50;
-  text-decoration: none;
+  color: #0066cc !important;
 }
-a:hover { text-decoration: underline; }
-
-/* ====================================
-   Layout – Two Column
-   ==================================== */
-.wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
+a:hover {
+  color: #004c99 !important;
 }
 
-.sidebar {
-  width: 300px;
-  background: #2c3e50;
-  color: #ecf0f1;
-  padding: 40px 30px;
-  position: fixed;
-  height: 100vh;
-  overflow-y: auto;
-  box-shadow: 4px 0 15px rgba(0,0,0,0.1);
+/* Horizontal line */
+hr {
+  border-color: #ddd !important;
 }
 
-.main-content {
-  margin-left: 300px;
-  flex: 1;
-  padding: 40px 50px;
-  min-height: 100vh;
-  background: #fff;
-}
-
-/* ====================================
-   Sidebar Styles
-   ==================================== */
-.sidebar .site-title {
-  font-size: 28px;
-  font-weight: 700;
-  margin-bottom: 10px;
-  color: #fff;
-}
-.sidebar .site-title a { color: #fff; }
-
-.sidebar img.profile {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  margin: 20px auto;
-  display: block;
-  border: 5px solid #34495e;
-}
-
-.sidebar-section {
-  margin-top: 40px;
-}
-.sidebar-section h3 {
-  font-size: 16px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #bdc3c7;
-  margin-bottom: 15px;
-  border-bottom: 1px solid #34495e;
-  padding-bottom: 8px;
-}
-
-.sidebar-section a {
-  color: #ecf0f1;
-}
-.sidebar-section a:hover {
-  color: #1abc9c;
-}
-
-.experience-logos img {
-  height: 36px;
-  margin: 8px 12px 8px 0;
-  vertical-align: middle;
-}
-
-.certifications img {
-  width: 38px;
-  margin: 8px;
-}
-
-.social-links img {
-  width: 28px;
-  margin: 10px 8px 0 0;
-  opacity: 0.8;
-}
-.social-links img:hover { opacity: 1; }
-
-/* ====================================
-   Main Content – Project Cards
-   ==================================== */
-.project-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
-  gap: 30px;
-  margin-top: 30px;
-}
-
-.project-card {
-  background: #fff;
-  border-radius: 10px;
-  padding: 24px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-  transition: all 0.3s ease;
-  border: 1px solid #eee;
-}
-
-.project-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 12px 25px rgba(0,0,0,0.15);
-}
-
-.project-card h3 {
-  margin: 0 0 12px 0;
-  font-size: 20px;
-  color: #2c3e50;
-}
-
-.project-card h3 a {
-  color: #2c3e50;
-}
-.project-card h3 a:hover {
-  color: #1abc9c;
-  text-decoration: none;
-}
-
-.project-card p {
-  font-size: 14.5px;
-  color: #555;
-  margin: 12px 0;
-}
-
-.tech-stack {
-  margin-top: 18px;
-  font-size: 13px;
-  color: #7f8c8d;
-  font-weight: 500;
-}
-
-/* Table of Contents style for the separator lines in index.md */
-.main-content hr {
-  border: none;
-  height: 1px;
-  background: linear-gradient(to right, transparent, #ddd, transparent);
-  margin: 50px 0;
-}
-
-/* Responsive */
-@media (max-width: 900px) {
-  .sidebar {
-    position: static;
-    width: 100%;
-    height: auto;
-    padding-bottom: 30px;
-  }
-  .main-content {
-    margin-left: 0;
-    padding: 30px 20px;
-  }
-  .project-grid {
-    grid-template-columns: 1fr;
-  }
+/* Images */
+img {
+  filter: none !important; 
 }
