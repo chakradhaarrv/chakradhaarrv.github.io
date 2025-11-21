@@ -1,8 +1,9 @@
 
-<br/><br/>
-<br/><br/>
+<br/><br/><br/>
+
 
 ## Projects
+<br/>
 
 [NLP Analysis of Financial Reports](https://github.com/chakradhaarrv/AI_Trading/blob/main/NLPonFinancialStatements.ipynb)
 <p style="font-size:14px">Scraped 10-K Filings from the SEC website using BeautifulSoup and selected key sections for NLP Analysis to create a text based stock selection model based on an academic paper titled Lazy Prices. <br/>Performed sentiment analysis on the 10-k's and evaluated the alpha factors by their Sharpe Ratio using the Alphalens library.
