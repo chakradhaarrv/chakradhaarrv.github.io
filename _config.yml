@@ -1,23 +1,23 @@
 title: Chakradhaar Viswatmula
 logo: "/assets/images/headshot.png?raw=true"
 description: >
-  <br>
-  <!-- Experience logos (already centered with flex in CSS) -->
-  <div>
-    <strong style="font-size:18px;">Experience</strong>
-    <br>&ensp;
-    <a href="https://www.americanexpress.com/">
-      <img src="/assets/images/AXP_BlueBoxLogo_Alternate_REGULARscale_RGB_DIGITAL_700x700.png?raw=true" style="width:36px;height:36px;">
-    </a>&ensp;
-    <a href="https://www.conduent.com/">
-      <img src="/assets/images/Conduent_logo.svg.png?raw=true" style="width:123px;height:32px;">
-    </a>&ensp;
-  </div>
   <br><br><br>
 
+  <!-- Experience -->
+  <div>
+    <strong style="font-size:18px;">Experience</strong>
+    <br><br>
+    <a href="https://www.americanexpress.com/">
+      <img src="/assets/images/AXP_BlueBoxLogo_Alternate_REGULARscale_RGB_DIGITAL_700x700.png?raw=true" style="width:36px;height:36px;">
+    </a>&ensp;&ensp;
+    <a href="https://www.conduent.com/">
+      <img src="/assets/images/Conduent_logo.svg.png?raw=true" style="width:123px;height:32px;">
+    </a>
+  </div>
+  <br><br><br><br>
 
-  <!-- Certifications – centered, bold, extra spacing -->
-  <div style="line-height:2.4;">
+  <!-- Certifications -->
+  <div>
     <strong style="font-size:18px;">Certifications</strong>
     <br><br>
     <a href="/assets/documents/tf_cert">
@@ -30,9 +30,9 @@ description: >
       <img src="/assets/images/tableau-logo.png?raw=true" style="width:40px;height:40px; margin:0 18px;">
     </a>
   </div>
-  <br><br><br>
+  <br><br><br><br>
 
-  <!-- Links -->
+  <!-- Connect -->
   <div>
     <strong style="font-size:16px;">Connect</strong>
     <br><br>
@@ -48,6 +48,7 @@ description: >
   </div>
   <br><br>
 
+# ←←←← Everything below this line must NOT be indented
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
