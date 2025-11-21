@@ -1,47 +1,45 @@
+title: Chakradhaar Viswatmula
+logo: "/assets/images/headshot.png?raw=true"
 description: >
-  <br><br><br>
-
-  <!-- Experience -->
-  <div style="text-align:left; line-height:2.4;">
-    <strong style="font-size:18px; color:#2c3e50;">Experience</strong>
-    <br><br>
-    <a href="https://www.americanexpress.com/">
-      <img src="/assets/images/AXP_BlueBoxLogo_Alternate_REGULARscale_RGB_DIGITAL_700x700.png?raw=true" style="width:36px;height:36px;">
-    </a>&ensp;
-    <a href="https://www.conduent.com/">
-      <img src="/assets/images/Conduent_logo.svg.png?raw=true" style="width:123px;height:32px;">
-    </a>
-  </div>
-  <br><br><br>
-
-  <!-- Certifications -->
-  <div style="text-align:left; line-height:2.4;">
-    <strong style="font-size:18px; color:#2c3e50;">Certifications</strong>
-    <br><br>
-    <a href="/assets/documents/tf_cert">
-      <img src="/assets/images/tf_badge.png?raw=true" style="width:40px;height:40px; margin:0 18px 0 0;">
-    </a>
-    <a href="/assets/documents/google_da">
-      <img src="/assets/images/google_logo.png?raw=true" style="width:40px;height:40px; margin:0 18px 0 0;">
-    </a>
-    <a href="/assets/documents/tableau_cert">
-      <img src="/assets/images/tableau-logo.png?raw=true" style="width:40px;height:40px;">
-    </a>
-  </div>
-  <br><br><br>
-
-  <!-- Links -->
-  <div style="text-align:left;">
-    <strong style="font-size:16px; color:#2c3e50;">Connect</strong>
-    <br><br>
-    <a href="https://www.linkedin.com/in/chakradhaarrv/">
-      <img src="/assets/images/linkedin-logo.png?raw=true" style="width:33px;height:33px; margin:0 12px 0 0;">
-    </a>
-    <a href="https://github.com/chakradhaarrv">
-      <img src="/assets/images/github-logo.png?raw=true" style="width:35px;height:35px; margin:0 12px 0 0;">
-    </a>
-    <a href="mailto:crviswatmula@gmail.com">
-      <img src="/assets/images/gmail.png?raw=true" style="width:35px;height:35px;">
-    </a>
-  </div>
   <br><br>
+  <strong> Experience </strong>
+  <br> &ensp;
+  <a href="https://www.americanexpress.com/">
+    <img src="/assets/images/AXP_BlueBoxLogo_Alternate_REGULARscale_RGB_DIGITAL_700x700.png?raw=true" style="width:42px;height:42px;">
+  </a> &ensp;
+  <a href="https://www.conduent.com/">
+    <img src="/assets/images/Conduent_logo.svg.png?raw=true" style="width:123px;height:32px;">
+  </a> &ensp;
+  <br><br>
+  
+  <strong> Certifications </strong>
+  <br> &ensp;
+  <a href="/assets/documents/tf_cert">
+    <img src="/assets/images/tf_badge.png?raw=true" style="width:42px;height:42px;">
+  </a> &ensp;
+  <a href="/assets/documents/google_da">
+    <img src="/assets/images/google_logo.png?raw=true" style="width:32px;height:32px;">
+  </a> &ensp;
+  <a href="/assets/documents/tableau_cert">
+    <img src="/assets/images/tableau-logo.png?raw=true" style="width:32px;height:32px;">
+  </a>
+  <br><br>
+  
+  <strong> Connect </strong>
+  <br> &ensp;
+  <a href="https://www.linkedin.com/in/chakradhaarrv/">
+    <img src="/assets/images/linkedin-logo.png?raw=true" style="width:28px;height:28px;">
+  </a> &ensp;
+  <a href="https://github.com/chakradhaarrv">
+    <img src="/assets/images/github-logo.png?raw=true" style="width:28px;height:28px;">
+  </a> &ensp;
+  <a href="mailto:crviswatmula@gmail.com">
+    <img src="/assets/images/gmail.png?raw=true" style="width:28px;height:28px;">
+  </a>
+  <br><br>
+  
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+google_analytics: UA-000000-0
