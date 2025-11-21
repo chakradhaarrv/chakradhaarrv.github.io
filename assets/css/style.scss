@@ -3,15 +3,32 @@
 
 @import "{{ site.theme }}";
 
-/* Background */
-body {
-  background-color: #F7F7F5 !important;
-  color: #1A1A1A !important;
+/* Global premium white */
+:root {
+  --preferred-white: #F7F7F5;
 }
 
-/* Card/background blocks */
-section, article, .wrapper {
-  background: #ffffff !important;
+/* Background */
+html, body {
+  background-color: var(--preferred-white) !important;
+  color: #1A1A1A !important;
+  height: 100%;
+  margin: 0;
+}
+
+/* Content wrapper, sidebar, cards */
+.wrapper,
+section,
+article,
+.main,
+footer,
+header {
+  background-color: var(--preferred-white) !important;
+}
+
+/* Optional: add subtle shadow to content for premium feel */
+.wrapper, section, article {
+  box-shadow: 0px 1px 4px rgba(0,0,0,0.06);
   border-radius: 8px;
 }
 
@@ -35,5 +52,5 @@ hr {
 
 /* Images */
 img {
-  filter: none !important; /* remove unwanted dark-mode filters */
+  filter: none !important; 
 }
