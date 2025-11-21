@@ -1,6 +1,16 @@
 title: Chakradhaar Viswatmula # your name (or website title) here
 logo: "/images/pfimg.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+   <br><br>
+  Experience
+  <br> &ensp;
+  <a href="/tf_cert">
+  <img src='/images/tf_badge.png?raw=true' style="width:35px;height:35px;">
+  </a> &ensp;   
+  <a href="google_da">
+  <img src='images/google_logo.png?raw=true' style="width:32px;height:32px;">
+  <br><br>
+  Education
   <br>
   <a href='/diploma'>
   M.S. Business Analytics <br> University of Illinois Chicago</a> 
