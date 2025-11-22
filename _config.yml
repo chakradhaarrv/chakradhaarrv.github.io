@@ -42,4 +42,4 @@ description: >
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
-google_analytics: UA-000000-0
+google_analytics: G-3BP19MNH1K
